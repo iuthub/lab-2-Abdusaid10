@@ -1,0 +1,133 @@
+body {
+	background-image: url(05.jpg);
+	 /* Full height */
+    height: 100%; 
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+section {
+	border: 10px solid white;
+	background-color: white;
+	margin-right: 30px;
+	margin-left: 30px;
+	padding: 0px;
+	
+}
+
+
+a {
+	color: #245F5F;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+blockquote {
+	font-style: italic;
+}
+
+body {
+	font-family: "Georgia";
+	color: #009097;
+}
+
+
+h1, h2 {
+	font-weight: normal;
+	font-family: "Century Gothic";
+	margin: 3px;
+	padding: 0px;
+}
+
+img {
+	border-style: none;
+	padding: 5px;
+	float: right;
+
+
+}
+
+.fresh h1{
+	text-align: right;
+	
+}
+
+
+.fresh h2 {
+	
+	text-align: right;
+	font-size: 14pt;
+	
+}
+.fresh {
+	
+	/*line-height: 1.9em;*/
+	background-color:#A8F0F0;
+	margin:0px;
+	background-repeat: no-repeat;
+	padding: 0px;
+
+}
+
+.spatulas span{
+	border-bottom: 2px blue dashed;
+
+	
+}
+.monster span{
+	border-bottom: 2px blue dashed;
+	
+}
+
+
+.spatulas{
+	border: 4px #C2E9E9;
+	
+	background-color:#E8FBFB;
+	margin-top: 10px;
+	margin-right: 0px;
+	margin-left: 0px;
+	margin-bottom: 0px;
+	padding: 5px;
+	background-repeat: no-repeat;
+	min-width: 100px;
+	max-height: 150%;
+	overflow: auto;
+    clear: right;
+
+
+}
+.monster{
+	border: 4px #C2E9E9;
+	
+	background-color: #E8FBFB;
+	margin-top: 10px;
+	margin-right: 0px;
+	margin-left: 265px;
+	margin-bottom: 0px;
+	padding: 5px;
+	background-repeat: no-repeat;
+	overflow: auto;
+	
+}
+
+.friends{
+	margin-top: 10px;
+	margin-left: 5px;
+	margin-right: 5px;
+    float: left;
+    width: 20%;
+    height: 30%;
+    background-color: #E8FBFB;
+    overflow: auto;
+    min-width: 100px;
+	max-height: 150%;
+    clear: right;
+
+}
+
